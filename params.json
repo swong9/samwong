@@ -1,0 +1,6 @@
+{
+  "name": "Welcome!",
+  "tagline": "This is the main website for Section 122 of CS 61A Fa'16, which is TA'd by Samantha Wong.",
+  "body": "## Useful links\r\n- [Course Website](cs61a.org)\r\n- [Python Tutor](tutor.cs61a.org)\r\n- [Scheme Interpreter](scheme.cs61a.org)\r\n- [Anonymous Feedback Form](https://goo.gl/forms/zW1eAMT1MVZifYHU2) - leave me feedback on my teaching!\r\n\r\n## Announcements\r\n- [Disc00 Lecture Slides](https://docs.google.com/a/berkeley.edu/presentation/d/1ZA_UGcGAuzxRrr340Ke6j-vP92pNnjKefCXmVuykrqA/edit?usp=sharing)\r\n\r\n## General Information\r\n- Lab: 9:30-11am on Wednesdays in 271 Soda\r\n- Discussion: 9:30-11am on Fridays in 310 Soda\r\n- Office Hours: 2-3pm on Thursdays in 109 Morgan (next to the Pat Browns courtyard)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
